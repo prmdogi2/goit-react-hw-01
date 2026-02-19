@@ -1,0 +1,29 @@
+.clasTable {
+  min-width: 600px;
+  font-size: 26px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.columnHeader,
+.tableCell {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  padding: 0;
+}
+.tableCell:first-child {
+  text-align: left;
+  padding: 0 50px;
+}
+
+.tableRow:nth-child(even) {
+  background-color: darkgray;
+}
+
+.clasTr {
+  color: #fff;
+  background-color: black;
+}

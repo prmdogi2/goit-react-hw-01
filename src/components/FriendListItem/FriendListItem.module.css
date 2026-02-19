@@ -1,0 +1,18 @@
+.img {
+  width: 90px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.status {
+  font-weight: bold;
+}
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
+.name {
+  font-size: 26px;
+  font-weight: 600;
+}
